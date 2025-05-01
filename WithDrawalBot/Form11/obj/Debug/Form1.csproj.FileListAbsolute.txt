@@ -1,0 +1,4 @@
+D:\GithubNew\4\AutoWithdraw\AutoWithDraw\WithDrawalBot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\4\AutoWithdraw\AutoWithDraw\WithDrawalBot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\16\AutoWithDraw\AutoWithdraw\AutoWithDraw\WithDrawalBot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\16\AutoWithDraw\AutoWithdraw\AutoWithDraw\WithDrawalBot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
